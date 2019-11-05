@@ -6,4 +6,4 @@ For this project, we make the following simplifying assumptions:
 2. The bid values are fixed (unlike in the real world where advertisers normally compete by incrementing their bid by 1 cent).
 3. Each ad request has just one advertisement slot to display.
 
-We tackle this problem by implementing 3 different algorithms: greedy, msvv, and balance. The efficiency of these techniques is compared based on the basis of revenue generated and competitive ratio.
+We tackle this problem by implementing 3 different algorithms: greedy, msvv, and balance. The efficiency of these techniques is compared on the basis of revenue generated and competitive ratio.
